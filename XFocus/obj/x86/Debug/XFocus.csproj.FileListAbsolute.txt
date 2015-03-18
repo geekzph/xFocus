@@ -1,0 +1,11 @@
+D:\wpf\XFocus\XFocus\bin\Debug\XFocus.exe
+D:\wpf\XFocus\XFocus\bin\Debug\XFocus.pdb
+D:\wpf\XFocus\XFocus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wpf\XFocus\XFocus\obj\x86\Debug\XFocus.Form1.resources
+D:\wpf\XFocus\XFocus\obj\x86\Debug\XFocus.Properties.Resources.resources
+D:\wpf\XFocus\XFocus\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\wpf\XFocus\XFocus\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\wpf\XFocus\XFocus\obj\x86\Debug\XFocus.exe
+D:\wpf\XFocus\XFocus\obj\x86\Debug\XFocus.pdb
+D:\wpf\XFocus\XFocus\obj\x86\Debug\XFocus.About.resources
+D:\wpf\XFocus\XFocus\bin\Debug\XFocus.exe.config
